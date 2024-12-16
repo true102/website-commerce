@@ -1,0 +1,1 @@
+This is a responsive website built with HTML and CSS. It adapts to different screen sizes, providing an optimal viewing experience on both desktop and mobile devices. The layout adjusts automatically, ensuring usability and accessibility across various platforms.
